@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ex071</string>
+    <string name="divide">/</string>
+    <string name="mulpitly">*</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="clear">A/C</string>
+    <string name="equals">=</string>
+    <string name="credit">CREDIT</string>
+    <string name="creditText">This app made by Shahar Yani</string>
+</resources>
